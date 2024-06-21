@@ -26,6 +26,35 @@ How to overcome this issue?
   UnderBagging: Undersample the majority class
   Weights: Add weights to minority or majority class
   Balancedrfc: Ensures each bootstrapped sample has the same amount of data as the minority class (could cause underfitting)
+
+Lets go into the parameters/hyperparameters of Random Forest Classifier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
   
   
